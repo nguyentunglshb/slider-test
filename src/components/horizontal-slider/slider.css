@@ -1,0 +1,8 @@
+.slick-slide {
+	transition: all 0.2s ease;
+}
+
+.slick-center {
+	transform: scale(1.5);
+	/* transform-origin: 50% 100%; */
+}
